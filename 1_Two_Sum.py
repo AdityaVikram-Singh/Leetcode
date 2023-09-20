@@ -7,6 +7,7 @@ class Solution(object):
                     return(i,c)
 
 
+
 sol = Solution()
 nums1 = [2, 9, 11, 15, 7]; target1 = 9
 nums2 = [3, 3]; target2 = 6
