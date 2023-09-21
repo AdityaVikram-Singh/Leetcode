@@ -11,7 +11,6 @@ class Solution(object):
 
 
 
-
 sol = Solution()
 anagram_s1 = "anagram"
 anagram_t1 = "nagaram"
